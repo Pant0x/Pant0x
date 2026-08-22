@@ -7,7 +7,7 @@
 <!-- Glowing Neon Title Banner -->
 <h1>
   <a href="https://github.com/Pant0x">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=50&lines=Artificial+Intelligence+Engineer+%7C+Software+Engineer+%7C+Computer+Vision+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=50&lines=AI+%26+Computer+Vision+Engineer" alt="Typing SVG" />
   </a>
 </h1>
 
