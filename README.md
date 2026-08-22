@@ -1,9 +1,13 @@
 <div align="center">
 
-<!-- RGB / Neon Typing Effect -->
-<a href="https://github.com/Pant0x">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=50&lines=AI+Engineer+%7C+Software+Engineer+%7C+Computer+Vision+Engineer" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,11,20,25&height=120&section=header&text=Ezzeldeen%20Qutb&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
+
+<!-- Glowing Neon Title Banner -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&height=50&lines=AI+Engineer+%7C+Software+Engineer+%7C+Computer+Vision+Engineer" alt="Typing SVG" />
+</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezzeldeen_Qutb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezzeldeenqutb/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pant0x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pant0x)
@@ -14,7 +18,9 @@
 
 ### 🚀 About Me
 
-Hi there! I am **Ezzeldeen Qutb**. I am currently in my final year studying Artificial Intelligence and Data Science at Zagazig National University, specializing in Computer Vision and scalable backend infrastructure. Whether I am building out Python and FastAPI architectures or training intelligent system pipelines, I am focused on engineering high-performance tools. 
+<p align="left">
+  Hi there! I am <b>Ezzeldeen Qutb</b>, a passionate <b>AI Engineer</b> and <b>Software Engineer</b> specializing in <b>Computer Vision</b>, intelligent systems, and scalable backend architectures. I love solving complex problems, building high-performance software, and turning cutting-edge research into real-world applications.
+</p>
 
 ---
 
@@ -33,22 +39,29 @@ Hi there! I am **Ezzeldeen Qutb**. I am currently in my final year studying Arti
 
 ---
 
-### 📊 GitHub Metrics
-
-*(Powered by `lowlighter/metrics`)*
+### 📈 GitHub Stats
 
 <div align="center">
-  
-  <!-- Base Profile & Languages -->
-  <img src="https://metrics.lecoq.io/Pant0x?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&plugin_languages=yes&plugin_languages_colors=github&plugin_languages_limit=8" alt="Pant0x Base Metrics" width="100%">
-  
-  <!-- Recent Activity & Notable Contributions -->
-  <img src="https://metrics.lecoq.io/Pant0x?template=classic&base=&plugin_activity=yes&plugin_activity_limit=5&plugin_notable=yes&plugin_notable_indepth=yes" alt="Pant0x Activity" width="100%">
-  
-  <!-- Starred Topics & Repositories -->
-  <img src="https://metrics.lecoq.io/Pant0x?template=classic&base=&plugin_topics=yes&plugin_topics_mode=icons&plugin_stars=yes&plugin_stars_limit=4" alt="Pant0x Topics and Stars" width="100%">
-  
-  <!-- Contribution Calendar -->
-  <img src="https://metrics.lecoq.io/Pant0x?template=classic&base=&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year" alt="Pant0x Calendar" width="100%">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Pant0x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ezzeldeen's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pant0x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  </p>
+</div>
 
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pant0x/Pant0x/output/github-contribution-snake-grid/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pant0x/Pant0x/output/github-contribution-snake-grid/snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Pant0x/Pant0x/output/github-contribution-snake-grid/snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pant0x&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
