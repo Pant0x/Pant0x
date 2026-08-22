@@ -39,8 +39,3 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pant0x&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
